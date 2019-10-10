@@ -7,5 +7,7 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello There, World"); 
+        
+        System.out.println("Welcome to GIT World");
     } 
 } 
