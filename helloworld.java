@@ -6,8 +6,10 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
+        // Prints "Hello, World" to the terminal window.
         System.out.println("Hello There, World"); 
         
+        // Prints "Welcome to GIT World" to the terminal window.
         System.out.println("Welcome to GIT World");
     } 
 } 
