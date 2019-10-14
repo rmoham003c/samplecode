@@ -11,5 +11,9 @@ class HelloWorld
         
         // Prints "Welcome to GIT World" to the terminal window.
         System.out.println("Welcome to GIT World");
+
+        // Prints "Welcome to GIT Branching" to the terminal window.
+        System.out.println("Welcome to my first branch");
+
     } 
 } 
